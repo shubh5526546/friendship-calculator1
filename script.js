@@ -33,8 +33,8 @@ function calculateFriendship() {
 
   // 🌟 Custom emojis for specific pairs
   const customEmojiPairs = {
-    "shubham|archita": "💖💑",
-    "yeobo|candy": "🍬",
+    "shubham|archita": "💖💕💑",
+    "yeobo|candy": "🍬🙌",
     "archita|anshu": "👩🏼‍🤝‍👩🏻",
     "sakshi|anshu": "🔥",
     "archita|nandini": "🌺"
