@@ -69,23 +69,7 @@ button:hover {
   color: #333;
 }
 
-.corner-credit {
-  position: fixed;
-  top: 10px;
-  right: 10px;
-  width: 160px;
-  overflow: hidden;
-  white-space: nowrap;
-  z-index: 999;
-}
 
-.moving-text {
-  display: inline-block;
-  animation: moveText 5s linear infinite;
-  color: #f8f5f7;
-  font-weight: bold;
-  font-size: 14px;
-}
 
 @keyframes moveText {
   0% {
